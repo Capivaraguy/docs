@@ -1,9 +1,9 @@
 ---
-title: Badge and Icon Guidelines
+title: Banner, Badge and Icon Guidelines
 description: Guidelines for creating and uploading achievement badges and game icons on RetroAchievements. Learn about size requirements, design best practices, and the approval process for new or revised images.
 ---
 
-# Badge and Icon Guidelines
+# Banner, Badge and Icon Guidelines
 
 [[toc]]
 
@@ -29,20 +29,23 @@ When someone mentions badges, they could be talking about one of two things:
 
 ## Designing New Badges
 
-Achievement badges should refer in some way to what the achievement is about - i.e. a picture of the boss, level or collectible that the achievement requires the player to get to.
+Achievement badges should focus on certain goals:
+- Achievement badges should refer in some way to what the achievement is about - i.e. a picture of the boss, level or collectible that the achievement requires the player to get to.
+- Both the art and any font or writing in the badge should be clear and readable.
 
 ## Designing New Game Icons
 
 ### Game Mastery Icons must represent the associated game by using 'Official' art only.
 
-- Sprites from the game (or models)
-- Box Art / Regional Box Art
+- Sprites, models, renders from the game
+- Region Specific Box Art
 - Concept Art
 - CD / OST Art
 - Manual Art
 - Guidebook Art
 - Advertisements
 - Or any other 'Official' Source of artwork.
+- Any promotional art that has been released considerably after the release of the game (for example, OST art released 10 years later) requires Art Team approval to be used on an icon.
 
 ### Mastery Icons must not
 
@@ -57,6 +60,7 @@ Achievement badges should refer in some way to what the achievement is about - i
 - Stylize official art or combine different official art sources
 - Use official art from a different regional release on the same console, unless that regional release has its own game page entry
 - Use fan art created by the icon creator, but it must be approved by the art team prior to uploading or any icon gauntlet vote.
+ - Approval will take into consideration, at the discretion of Art Team, the quality of the art and its context within the game.
 
 ### Exceptions
 
@@ -64,11 +68,18 @@ Achievement badges should refer in some way to what the achievement is about - i
 - Hacks - Most hacks use the same sprites from its source game. Other art that represents the game in a meaningful way may be used as long as it is not on the excluded list above (such as external fan art or AI-generated art). Art by the developer of the hack may also be used.
 - Movie-Licensed/Movie Tie-In Games may use artwork that was used to promote the movie.
 
-![mario time](/mario-time.png)
 
 ## Game Page Banners
 
-Banners are wide images used to represent games on certain pages of the site. All existing guidelines for game icons apply to banners as well, with the following additional restrictions:
+Banners are wide images used to represent games on certain pages of the site.
+
+- Banners cannot go through a community gauntlet process, and can only be changed by authors that currently hold claim or have developed for that particular set, or by art team members.
+- Banners must be 3.56:1 (3000x900 recommended, 1920x540 minimum).
+- Banners should ideally be designed and optimized for all Desktop, Mobile and Ultrawide views, according to the following representation:
+
+![banner visual](/banner-visual.png)
+
+All existing guidelines for game icons apply to banners as well, with the following additional restrictions:
 
 ### Banners must not
 
@@ -153,4 +164,3 @@ Here is a perfect example of [how to effectively post new and old Badges](https:
 ## To Do
 
 - Needs info on adding achievement badges via the website.
-- Add "collager" info.
