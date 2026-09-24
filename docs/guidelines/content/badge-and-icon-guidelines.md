@@ -12,10 +12,10 @@ description: Guidelines for creating and uploading achievement badges and game i
 When someone mentions badges, they could be talking about one of two things:
 
 - Achievement badges, which are user-created images associated with the individual achievements of a set.
-  - _Sonic the Hedgehog's first Badge - #00199)_
+  - _Sonic the Hedgehog's first achievement icon - #00199)_
     - ![Amateur Collector Badge](https://github.com/Capivaraguy/docs/blob/patch-1/docs/public/badge-00199.png)
 - Game icons, also known as mastery badges, which is a single image used to represent an achievement set.
-  - _Sonic the Hedgehog's first game icon_
+  - _Sonic the Hedgehog's first mastery icon_
     - ![Sonic the Hedgehog Icon](https://github.com/Capivaraguy/docs/blob/patch-1/docs/public/badge-016743.png)
 
 ## Badge Format and Sizes
