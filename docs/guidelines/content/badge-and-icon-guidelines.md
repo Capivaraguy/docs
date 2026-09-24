@@ -95,10 +95,15 @@ All existing guidelines for game icons apply to banners as well, with the follow
 
 - Achievement developers are allowed to add mastery badges freely for entries that do not have achievements nor a mastery badge. As a claimant for a set without achievements, developers are free to change the mastery icon, the achievement icons and the banner.
  - To change the set's media content, first go to the game page and click on "Manage":
+
    ![change_game_icon_1](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/change-game-icon1.png)
+   
  - Next, click on "Media":
+   
    ![change game icon 2](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/change-game-icon2.png)
+   
  - On this page, you're able to change the mastery icon, the banner and the achievement icons for any achievements present on the set:
+   
    ![change game icon 3](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/change-game-icon3.png)
 
 If a game already has a set, icon changes must go through the [icon gauntlet revision process](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/guidelines/content/achievement-set-revisions).
