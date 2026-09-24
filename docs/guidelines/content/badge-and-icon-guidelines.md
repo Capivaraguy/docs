@@ -16,7 +16,7 @@ When someone mentions badges, they could be talking about one of two things:
     - ![Amateur Collector Badge](https://s3-eu-west-1.amazonaws.com/i.retroachievements.org/Badge/00199.png)
 - Game icons, also known as mastery badges, which is a single image used to represent an achievement set.
   - _Sonic the Hedgehog's first game icon_
-    - ![Sonic the Hedgehog Icon](https://github.com/Capivaraguy/docs/edit/patch-1/docs/public/badge-016743.png)
+    - ![Sonic the Hedgehog Icon](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/badge-016743.png)
 
 ## Badge Format and Sizes
 
