@@ -77,7 +77,7 @@ Banners are wide images used to represent games on certain pages of the site.
 - Banners must be 3.56:1 (3000x900 recommended, 1920x540 minimum).
 - Banners should ideally be designed and optimized for all Desktop, Mobile and Ultrawide views, according to the following representation:
 
-![banner visual](public/banner-visual.png)
+![banner visual](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/banner-visual.png)
 
 All existing guidelines for game icons apply to banners as well, with the following additional restrictions:
 
@@ -95,18 +95,18 @@ All existing guidelines for game icons apply to banners as well, with the follow
 
 - Achievement developers are allowed to add mastery badges freely for entries that do not have achievements nor a mastery badge. As a claimant for a set without achievements, developers are free to change the mastery icon, the achievement icons and the banner.
  - To change the set's media content, first go to the game page and click on "Manage":
-   ![change_game_icon_1](public/change-game-icon1.png)
+   ![change_game_icon_1](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/change-game-icon1.png)
  - Next, click on "Media":
-   ![change game icon 2](public/change-game-icon2.png)
+   ![change game icon 2](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/change-game-icon2.png)
  - On this page, you're able to change the mastery icon, the banner and the achievement icons for any achievements present on the set:
-   ![change game icon 3](public/change-game-icon3.png)
+   ![change game icon 3](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/change-game-icon3.png)
 
-If a game already has a set, icon changes must go through the [icon gauntlet revision process](public/guidelines/content/achievement-set-revisions).
+If a game already has a set, icon changes must go through the [icon gauntlet revision process](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/guidelines/content/achievement-set-revisions).
 
 **Non-Developers:**
 
 - Non-developers cannot upload banners nor push them through the icon gauntlet revision process. Non-developers can, however, communicate with developers of the set or Art Team members to possibly add a banner of their making to a game page, keeping in mind that the developer or Art Team member has the final say on if the banner will be added or not, and will not be beholden to a community vote.
-- Non-developers must go through the "cleanup-requests" process on the Retroachievements official discord to upload mastery icons to iconless sets. For sets that already have a set and an icon, non-developers must go through the [icon gauntlet revision process](public/guidelines/content/achievement-set-revisions) for either the mastery icon or any achievement icons that they may wish to change.
+- Non-developers must go through the "cleanup-requests" process on the Retroachievements official discord to upload mastery icons to iconless sets. For sets that already have a set and an icon, non-developers must go through the [icon gauntlet revision process](https://github.com/Capivaraguy/docs/tree/patch-1/docs/public/guidelines/content/achievement-set-revisions) for either the mastery icon or any achievement icons that they may wish to change.
 
 ## Badge Server Files
 
