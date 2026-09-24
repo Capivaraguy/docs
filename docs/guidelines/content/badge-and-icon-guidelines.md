@@ -89,6 +89,30 @@ All existing guidelines for game icons apply to banners as well, with the follow
 
 - If a banner is sourced from SteamGridDB, credit must be given to the "SteamGridDB" user.
 
+## Uploading Mastery Icons, Achievement Icons and Banners
+
+**Developers:**
+
+- Achievement developers are allowed to add mastery badges freely for entries that do not have achievements nor a mastery badge. As a claimant for a set without achievements, developers are free to change the mastery icon, the achievement icons and the banner.
+ - To change the set's media content, first go to the game page and click on "Manage":
+   ![change_game_icon_1](/change-game-icon1.png)
+ - Next, click on "Media":
+   ![change game icon 2](/change-game-icon2.png)
+ - On this page, you're able to change the mastery icon, the banner and the achievement icons for any achievements present on the set:
+   ![change game icon 3](/change-game-icon3.png)
+
+If a game already has a set, icon changes must go through the [icon gauntlet revision process](/guidelines/content/achievement-set-revisions).
+
+**Non-Developers:**
+
+- Non-developers cannot upload banners nor push them through the icon gauntlet revision process. Non-developers can, however, communicate with developers of the set or Art Team members to possibly add a banner of their making to a game page, keeping in mind that the developer or Art Team member has the final say on if the banner will be added or not, and will not be beholden to a community vote.
+- Non-developers must go through the "cleanup-requests" process on the Retroachievements official discord to upload mastery icons to iconless sets. For sets that already have a set and an icon, non-developers must go through the [icon gauntlet revision process](/guidelines/content/achievement-set-revisions) for either the mastery icon or any achievement icons that they may wish to change.
+
+## Badge Server Files
+
+- Game icons are stored on the site in the following manner and place: `i.retroachievements.org/Images/000705.png`. They are stored in the same server folder as other game images such as the game box and game screenshots.
+- Achievement badges are stored on site in the following manner and place: `i.retroachievements.org/Badge/00136.png`; the number coincidences with the badge ID found in the Achievement.
+
 ## AI-Generated Art Policy
 
 ### Overview
@@ -113,54 +137,3 @@ RAArtTeam may ask questions such as:
 - What editing tool did you use to create this image?
 
 Reports of suspected AI-generated art in public channels will be addressed promptly to prevent harassment of developers or artists.
-
-## Uploading Game Icons
-
-**Developers:**
-
-- Achievement Developers are allowed to change game icons freely for entries that do not have achievements. As a Developer if you'd like to post a backup of the previous image there, if there is one, or backup yours in the forum you're free to but not required. As you create a new set of achievements you are free to create or choose the image you'd like to use as the game icon.
-  - To change a game icon first go to the game page and click on the Dev tools:  
-    ![change game icon 1](/change-game-icon1.png) - Then click the choose file button highlighted. Find the file on your PC, and then press the submit button highlighted:  
-    ![change game icon 2](/change-game-icon2.png)
-
-If a game has existing achievements, game icon changes need to go through [revision process](/guidelines/content/achievement-set-revisions).
-
-**Non-Developers:**
-
-- Yes, you absolutely can, but they are subject to [revisions](/guidelines/content/achievement-set-revisions). It will also be good to review the guidelines for [designing new game icons](#designing-new-game-icons---styling-guide).
-
-### Uploading Badges
-
-**For Developers:**
-
-If you are creating new achievements you are free to upload badges for them.
-
-Badges are uploaded from within the emulator developer tools while in the achievement editor:  
-![Upload Badge](/alt-groups-add.png)
-
-Or you can select a prefabricated image or find other images you've uploaded in the drop down box:  
-![Badge dropdown](/badge-dropdown.png)
-
-## Badge Server Files
-
-- Game icons are stored on the site in the following manner and place: `i.retroachievements.org/Images/000705.png`. They are stored in the same server folder as other game images such as the game box and game screenshots.
-- Achievement badges are stored on site in the following manner and place: `i.retroachievements.org/Badge/00136.png`; the number coincidences with the badge ID found in the Achievement.
-
-## Making New Badges for Existing Achievements
-
-If you'd like to make improved badges for existing achievements, you can. Your images will go through the [revision process](/guidelines/content/achievement-set-revisions), which will put your creations to a community vote.
-
-Post all the new images you'd like to replace current ones in the [Icon Gauntlet Forum Topic](http://retroachievements.org/viewtopic.php?t=8064&o=0). Also post all the badges that the new images are meant to replace. They will be placed for a community review by as a single vote. After a community vote is complete if you are a dev you can replace the Badges or if you are not, ask for help in the #help-me channel on Discord or in the [Icon Gauntlet Forum Topic](http://retroachievements.org/viewtopic.php?t=8064&o=0).
-
-It's easiest to just reference the old and new Badges as `img` links:
-
-- Example: `[img=https://retroachievements.org/Badge/01234.png] -> [img=https://retroachievements.org/badge/56789.png]`
-- (Dev) Make sure to capture the old Badge ID from the Achievement Editor before uploading the new Badge
-- The new Badge ID will appear in the Achievement Editor after uploading it.
-- Both values can also be captured from the web site, but you have to copy the image links as the hover link is for the achievement.
-
-Here is a perfect example of [how to effectively post new and old Badges](https://retroachievements.org/viewtopic.php?t=612&o=17).
-
-## To Do
-
-- Needs info on adding achievement badges via the website.
